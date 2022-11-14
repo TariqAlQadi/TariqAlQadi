@@ -20,3 +20,6 @@ Techno(logies)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
+[repo-url]: https://github.com/saadeghi/daisyui
+[banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/card-3.png
