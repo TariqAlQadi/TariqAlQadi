@@ -15,12 +15,10 @@ Here is a list of things you can do with me
 - traveling
 - book me
 
-Techno(logies)
+Technologies
 <br>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 <br>
 <div align="center">
   BYE
