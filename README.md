@@ -4,8 +4,8 @@ My name is Tariq. I'm 29 years old and located in Leipzig. I am always curious a
 
 <hr>
 
-##  Right now 
-I attend the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧 
+## Right now 
+I attend the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
 
 <hr>
 
