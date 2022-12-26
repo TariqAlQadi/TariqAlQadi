@@ -30,7 +30,7 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 
 <hr>
 
-## **My personal Interests:**
+## **My Interests:**
 Have I mentioned that I am a professional magician for about 15 years now!
 ## 🪄 🎧 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
 
