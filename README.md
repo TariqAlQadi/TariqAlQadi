@@ -4,17 +4,17 @@ My name is Tariq. I'm 29 years old and located in Leipzig. I am always curious a
 
 <hr>
 
-##  Right now ...
+##  Right now 
 I attend the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/)  🐧 
 
 <hr>
 
-## Starting in 2023 ...
+## Starting in 2023 
 As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make some work experience and learn a lot more about web technoligies.
 
 <hr>
 
-## 🧠 Learned so far ...
+## 🧠 Skillset
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <br/>
@@ -30,9 +30,9 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 
 <hr>
 
-## **My Interests:**
-Have I mentioned that I am a professional magician for about 15 years now!
-## 🪄 🎧 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
+## 🫶🏼 Interests 
+(Psst ... Have I mentioned that I am a professional magician for about 15 years now!)
+## 🪄 🎧 🏝 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
 
 <hr>
 
