@@ -5,7 +5,7 @@ My name is Tariq. I'm 29 years old and located in Leipzig. I am always curious a
 <hr>
 
 ## Right now 
-I attend the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
+I am attending the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
 
 <hr>
 
@@ -31,7 +31,7 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 <hr>
 
 ## 🫶🏼 Interests 
-(Psst ... Have I mentioned that I am a professional magician for about 15 years now!)
+(Psst ... Did I mention that I've been a professional magician for about 15 years now!)
 ## 🪄 🎧 🏝 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
 
 <hr>
