@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Tariq. I'm 29 years old and located in Leipzig. I am always curious and open to new challenges. The first line of code I wrote was 2008 (on a Texas Instrument calculator). In my former mathematics studies I came across with JavaScript. Soon I realised, that web development is exactly the mixture of logic and creativity I was looking for and I started to learn the basics. I got hooked and this motivated me to become a full-time web developer.
+My name is Tariq. I'm 29 years old and located in Leipzig. I am always curious and open to new challenges. The first line of code I wrote was 2008 (on a Texas Instrument calculator). In my former mathematics studies I came across with JavaScript. Soon I realised, that web development is exactly the mixture of logic and creativity that suits me and I started to learn the basics. I got hooked and this motivated me to become a full-time web developer.
 
 <hr>
 
