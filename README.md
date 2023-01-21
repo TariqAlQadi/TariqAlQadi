@@ -14,7 +14,7 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 
 <hr>
 
-## 🧠 Skillset
+## 🧠 Techstack
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br/>
@@ -34,6 +34,14 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 
 <hr>
 
+## 👨🏻‍💻 Projects
+
+- [my personal website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
+- [fish-shop] (fish-shop-two.vercel.app) (Next.js, React, MongoDB Atlas, Styled Components)
+- [capstone project](capstone-project-brown-xi.vercel.app) (Next.js, React, Google API, Styled Components)
+
+<hr>
+
 ## 🫶🏼 Interests 
 ## 🪄 🎧 🏝 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
 (Psst ... Did I mention that I've been a professional magician for about 15 years now!)
@@ -44,6 +52,13 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 ![](https://github-readme-stats.vercel.app/api?username=TariqAlQadi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TariqAlQadi&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TariqAlQadi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<hr>
+
+## Contact 
+- [Email](mailto:tariqalqadi@gmx.de)
+- [Instagram](https://www.instagram.com/p.i.p.a.p.o/)
+- [LinkedIn](https://www.linkedin.com/in/tariq-al-qadi-22b306262/)
 
 <hr>
 
