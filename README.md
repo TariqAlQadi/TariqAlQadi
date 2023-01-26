@@ -37,7 +37,7 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 ## 👨🏻‍💻 Projects
 
 - [my personal website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
-- [fish-shop](fish-shop-two.vercel.app) (Next.js, React, MongoDB Atlas, Styled Components)
+- [fish shop](fish-shop-two.vercel.app) (Next.js, React, MongoDB Atlas, Styled Components)
 - [capstone project](capstone-project-brown-xi.vercel.app) (Next.js, React, Google API, Styled Components)
 
 <hr>
