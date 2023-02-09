@@ -9,7 +9,7 @@ I am attending the Web Development Bootcamp from [neue Fische](https://www.neuef
 
 <hr>
 
-## Starting in 2023 
+## 📆 Starting in 2023 
 As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make some work experience and learn a lot more about web technoligies.
 
 <hr>
@@ -55,7 +55,7 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 
 <hr>
 
-## Contact 
+## 📇 Contact 
 - [Email](mailto:tariqalqadi@gmx.de)
 - [Instagram](https://www.instagram.com/p.i.p.a.p.o/)
 - [LinkedIn](https://www.linkedin.com/in/tariq-al-qadi-22b306262/)
