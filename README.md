@@ -33,9 +33,9 @@ And currently I am working as a Front-End Developer in Chemnitz (Germany)!
 
 ## 👨🏻‍💻 Projects
 
-- [my personal website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
-- [fish shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB, Styled Components)
-- [capstone project](https://netricks.vercel.app/) (Next.js, React, Google Youtube Data API, Styled Components, NextAuth.js, MongoDB)
+- [Personal Website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
+- [Fish Shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB, Styled Components)
+- [Netrix](https://netricks.vercel.app/) (Next.js, React, Google Youtube Data API, Styled Components, NextAuth.js, MongoDB)
 
 <hr>
 
