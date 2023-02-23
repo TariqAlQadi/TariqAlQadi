@@ -1,16 +1,13 @@
 # Hello World! 👋
 
-My name is Tariq. I'm 29 years old and located in Leipzig(Germany). I am always curious and open to new challenges. The first line of code I wrote was 2008 (on a Texas Instrument calculator). In my former mathematics studies I came across with JavaScript. Soon I realised, that web development is exactly the mixture of logic and creativity that suits me and I started to learn the basics. I got very passionate about coding and this motivated me to become a full-time web developer.
+My name is Tariq. I'm 29 years old and located in Leipzig (Germany). I am always curious and open to new challenges. The first line of code I wrote was 2008 (on a Texas Instrument calculator). In my former mathematics studies I came across with JavaScript. Soon I realised, that web development is exactly the mixture of logic and creativity that suits me and I started to learn the basics. I got very passionate about coding and this motivated me to become a full-stack web developer (since february 2023).
 
 <hr>
 
-## Right now 
-I am attending the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
+## 📆 2023 
 
-<hr>
-
-## 📆 Starting in 2023 
-As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make some work experience and learn a lot more about web technoligies.
+I just finished the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
+And currently I am working as a Front-End Developer in Chemnitz (Germany)!
 
 <hr>
 
@@ -37,8 +34,8 @@ As soon as I finish the Bootcamp I am ready for my lateral entry. I want to make
 ## 👨🏻‍💻 Projects
 
 - [my personal website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
-- [fish shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB Atlas, Styled Components)
-- [capstone project](https://netricks.vercel.app/) (Next.js, React, Google API, Styled Components, NextAuth, MongoDB)
+- [fish shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB, Styled Components)
+- [capstone project](https://netricks.vercel.app/) (Next.js, React, Google Youtube Data API, Styled Components, NextAuth.js, MongoDB)
 
 <hr>
 
