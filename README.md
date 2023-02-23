@@ -6,7 +6,7 @@ My name is Tariq. I'm 29 years old and located in Leipzig (Germany). I am always
 
 ## 📆 2023 
 
-I just finished the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬
+I just finished the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬. <br/>
 And currently I am working as a Front-End Developer in Chemnitz (Germany)!
 
 <hr>
