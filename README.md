@@ -8,7 +8,7 @@ My name is Tariq. I'm 29 years old and located in Leipzig (Germany). I am always
 
 I just finished the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬. <br/>
 Currently I am working as a Front-End Developer in Chemnitz (Germany)! <br/>
-By the way, I am alos learning Angular and TypeScript right now.
+By the way, I am also learning TypeScript and Angular right now.
 
 <hr>
 
@@ -29,8 +29,9 @@ By the way, I am alos learning Angular and TypeScript right now.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 
 <hr>
 
