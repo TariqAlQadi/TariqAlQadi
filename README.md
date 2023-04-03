@@ -1,12 +1,11 @@
 # Hello World! 👋
 
-My name is Tariq. I'm 29 years old and located in Leipzig (Germany). I am always curious and open to new challenges. The first line of code I wrote was 2008 (on a Texas Instrument calculator). In my former mathematics studies I came across with JavaScript. Soon I realised, that web development is exactly the mixture of logic and creativity that suits me and I started to learn the basics. I got very passionate about coding and this motivated me to become a full-stack web developer (since february 2023).
+My name is Tariq. The first line of code I wrote was 2008 (on a Texas Instrument calculator) when I was 14 years old. In my former mathematics studies I got passionated about Coding and decided to become a full-stack web developer (since february 2023).
 
 <hr>
 
 ## 📆 2023 
 
-I just finished the Web Development Bootcamp from [neue Fische](https://www.neuefische.de/) 🐬. <br/>
 Currently I am working as a Front-End Developer in Chemnitz (Germany)! <br/>
 By the way, I am also learning TypeScript and Angular right now.
 
