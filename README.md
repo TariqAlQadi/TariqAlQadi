@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-My name is Tariq. The first line of code I wrote was 2008 (on a Texas Instrument calculator) when I was 14 years old. In my former mathematics studies I got passionated about Coding and decided to become a full-stack web developer (since february 2023).
+My name is Tariq. The first line of code I wrote was 2008 (on a Texas Instrument calculator) when I was 14 years old. In my former mathematics studies I got passionated about coding and decided to become a full-stack web developer (since february 2023).
 
 <hr>
 
