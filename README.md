@@ -43,6 +43,7 @@ By the way, I am also learning TypeScript and Angular right now.
 - [Personal Website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
 - [Fish Shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB, Styled Components)
 - [Netrix](https://netricks.vercel.app/) (Next.js, React, Google Youtube Data API, Styled Components, NextAuth.js, MongoDB)
+- [SpellBook](https://github.com/TariqAlQadi/first-angular-project)(Angular, Typescript)
 
 <hr>
 
