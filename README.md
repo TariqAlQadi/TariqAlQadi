@@ -1,70 +1,99 @@
-# Hello World! 👋
+<!-- WIP 
+# Hi, I'm Tariq 👋
 
-My name is Tariq. The first line of code I wrote was 2008 (on a Texas Instrument calculator) when I was 14 years old. In my former mathematics studies I got passionated about coding and decided to become a full-stack web developer (since february 2023).
+I'm a Full Stack Developer with a passion for building robust and scalable web applications. I have experience in both front-end and back-end technologies, and I'm constantly exploring new tools and frameworks to stay on the cutting edge of development. 
 
-<hr>
+## 🚀 About Me
+- 🔭 I’m currently working on several personal and open-source projects to improve my skills and contribute to the community.
+- 🌱 I’m learning about [mention any new tech you're learning, like cloud services, new JavaScript frameworks, or databases].
+- 👯 I’m open to collaborating on exciting projects or contributing to open-source repositories.
+- 🤔 I’m looking for opportunities to grow as a developer and contribute to meaningful projects.
+- 💬 Ask me about web development, JavaScript, React, Node.js, Express, and more!
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love solving complex problems and learning new things!
 
-## 📆 2023 
+## 🛠️ Technologies & Tools
 
-Currently I am working as a Front-End Developer in Chemnitz (Germany)! <br/>
-By the way, I am also learning TypeScript and Angular right now.
+### Frontend
+- **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries**: React, Next.js, Vue.js, SASS
+- **Tools**: Webpack, Babel, npm/yarn, VS Code, Figma, Adobe XD
 
-<hr>
+### Backend
+- **Languages**: Node.js, JavaScript (ES6+), TypeScript, Python
+- **Frameworks**: Express, NestJS, Django
+- **Databases**: MongoDB, PostgreSQL, MySQL, Redis
+- **API**: REST, GraphQL, WebSockets
+- **Authentication**: JWT, OAuth, Passport.js
 
-## 🧠 Techstack
+### DevOps & Cloud
+- **Platforms**: AWS, Azure, Heroku, DigitalOcean
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: GitHub Actions, Jenkins, Travis CI
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### Version Control & Collaboration
+- **GitHub**: Git, GitHub, GitLab, Bitbucket
+- **Agile Tools**: Jira, Trello, Slack, Asana
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&langs_count=5&theme=tokyonight)](https://github.com/your-github-username)
+
+## 🔗 Links
+
+- [Website/Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+- [Blog](https://medium.com/@your-blog)
+
+## 📂 Featured Projects
+
+Here are some of my projects that I'm really proud of:
+
+### 1. **Project Name**
+   - 🚀 **Tech Stack**: React, Node.js, MongoDB, Express
+   - 📜 **Description**: A web application that allows users to [brief project description]. 
+   - 🔗 [Link to Repository](https://github.com/your-github-username/project-name)
+
+### 2. **Project Name**
+   - 🚀 **Tech Stack**: Vue.js, Firebase, Tailwind CSS
+   - 📜 **Description**: A mobile-first website that helps users [brief project description]. 
+   - 🔗 [Link to Repository](https://github.com/your-github-username/project-name)
+
+### 3. **Project Name**
+   - 🚀 **Tech Stack**: Next.js, PostgreSQL, Docker
+   - 📜 **Description**: A scalable e-commerce platform with features such as [brief project description]. 
+   - 🔗 [Link to Repository](https://github.com/your-github-username/project-name)
+
+## 🌱 Current Learning Goals
+- Mastering **TypeScript** for better code quality and developer experience.
+- Diving deeper into **GraphQL** and **Apollo Client**.
+- Exploring **microservices** architecture with Docker and Kubernetes.
+- Contributing to **open-source projects** to improve my skills and give back to the community.
+
+## 📚 Blogs and Tutorials
+
+I love sharing knowledge and writing about my development journey. Here are a few articles you might find useful:
+
+- [How to Build a Full-Stack App with React, Node, and MongoDB](https://medium.com/@your-blog/how-to-build-a-full-stack-app-with-react-node-and-mongodb-7e1a7f1b723f)
+- [5 Essential Tools Every Full Stack Developer Should Know](https://medium.com/@your-blog/5-essential-tools-every-full-stack-developer-should-know-bdcdcb1ad2e9)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out to me for collaboration, questions, or feedback!
+Customizing the README:
+Replace [Your Name] with your actual name.
+Replace your-github-username with your actual GitHub username.
+Add or remove projects as needed in the "Featured Projects" section.
+If you have a blog, portfolio, or any other professional links, add them in the respective sections.
+Update the "Current Learning Goals" with your own learning path and technologies you're focusing on.
+This template provides a professional overview of your skills, experience, and ongoing projects. It highlights your expertise, while also showing that you’re committed to continuous learning.
+-->
+Full Stack Developer since February 2023.
 
 
-<hr>
 
-## 👨🏻‍💻 Projects
 
-- [Personal Website](https://my-first-personal-website.vercel.app) (HTML, CSS, Javascript)
-- [Fish Shop](https://fish-shop-two.vercel.app) (Next.js, React, MongoDB, Styled Components)
-- [Netrix](https://netricks.vercel.app/) (Next.js, React, Google Youtube Data API, Styled Components, NextAuth.js, MongoDB)
-- [SpellBook](https://github.com/TariqAlQadi/first-angular-project) (Angular, Typescript)
 
-<hr>
-
-## 🫶🏼 Interests 
-## 🪄 🎧 🏝 👨🏻‍💻 🎬 🍔 🚲 🏊🏼‍♂️ 🧗🏼
-(Psst ... Did I mention that I've been a professional magician for about 15 years now!)
-
-<hr>
-
-## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=TariqAlQadi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TariqAlQadi&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TariqAlQadi&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<hr>
-
-## 📇 Contact 
-- [Email](mailto:tariqalqadi@gmx.de)
-- [Instagram](https://www.instagram.com/p.i.p.a.p.o/)
-- [LinkedIn](https://www.linkedin.com/in/tariq-al-qadi-22b306262/)
-
-<hr>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TariqAlQadi.TariqAlQadi)
